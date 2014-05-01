@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * TODO:
- * - dumping factor
+ * - damping factor
  * - generify
  * - clean code
  */

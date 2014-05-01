@@ -14,6 +14,6 @@ See:
 [How Google Finds Your Needle in the Web's Haystack ](http://www.ams.org/samplings/feature-column/fcarc-pagerank)  
   
 TODO:
-+ dumping factor
++ damping factor
 + generify
 
