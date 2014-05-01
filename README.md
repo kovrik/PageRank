@@ -13,3 +13,7 @@ See:
 [Method for node ranking in a linked database](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=6,285,999)  
 [How Google Finds Your Needle in the Web's Haystack ](http://www.ams.org/samplings/feature-column/fcarc-pagerank)  
   
+TODO:
++ dumping factor
++ generify
+
